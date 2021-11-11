@@ -56,6 +56,11 @@ public function AddDeposit2(Request $request)
         'message' => 'Adddeposit2 successfully', 
         'status' => 'true'));
 }
+public function test(Request $request)
+{
+ 
+}
+
 
 }
 
