@@ -57,7 +57,7 @@
                                         }elseif($item->status == 4){
                                             echo "ค้างชำระ";
                                         }else{
-                                            echo "ไม่ทราบสถานะ";
+                                            echo "ไม่ทราบ";
                                         }
                                         ?></td>
 
